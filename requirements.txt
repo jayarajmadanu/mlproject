@@ -3,5 +3,6 @@ numpy
 seaborn
 scikit-learn
 dill
-pickle-mixin
+catboost
+xgboost
 -e .
